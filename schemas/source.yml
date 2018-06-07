@@ -3,8 +3,7 @@
   title: Source
   group: 2
   description: >
-    Source fields describe details about the source of where the event is
-    coming from.
+    Source fields describe details about the source of the event.
   fields:
     - name: ip
       type: ip

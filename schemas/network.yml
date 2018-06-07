@@ -15,7 +15,7 @@
       description: >
         Direction of the network traffic.
 
-        The recommended values are:
+        Recommended values are:
           * inbound
           * outbound
           * unknown
